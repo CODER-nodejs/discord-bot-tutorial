@@ -13,6 +13,11 @@ The steps to start are:
 
 5.You need to install discord.js by typing ```npm i discord.js```
 
+6.Go on ```discord.com/developers``` and create a application and on bot section do add a bot
+
+7.Go on ```https://discordapi.com/permissions.html``` and paste your bot ID and before that create a server and invite the bot there
+
+
 
 
 There you go.

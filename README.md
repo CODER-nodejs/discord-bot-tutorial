@@ -3,6 +3,8 @@ This would be helpful for starting on your own discord bot
 
 The steps to start are:
 
+
+
 1.Install Visual Studio Code and NodeJS
 
 2.Create a folder
@@ -16,6 +18,8 @@ The steps to start are:
 6.Go on ```discord.com/developers``` and create a application and on bot section do add a bot
 
 7.Go on ```https://discordapi.com/permissions.html``` and paste your bot ID and before that create a server and invite the bot there
+
+
 
 
 

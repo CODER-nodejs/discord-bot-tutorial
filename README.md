@@ -19,7 +19,9 @@ The steps to start are:
 
 7.Go on ```https://discordapi.com/permissions.html``` and paste your bot ID and before that create a server and invite the bot there
 
+8.after you copy index.js go on the terminal and type ```node . ```
 
+**Disclaimer**:client.login('token') you need to type your bots token there
 
 
 

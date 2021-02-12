@@ -11,7 +11,7 @@ The steps to start are:
 
 3.Write ```cmd``` on the up bar that says *C:\Users\Tutorial\DiscordBot* and press enter
 
-4.After that you see a command prompt so what you need to do is to create a package.json by typing npm innit and follow its steps
+4.After that you see a command prompt so what you need to do is to create a package.json by typing ```npm innit``` and follow its steps
 
 5.You need to install discord.js by typing ```npm i discord.js```
 
